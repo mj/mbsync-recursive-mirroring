@@ -1,0 +1,6 @@
+Simple build environment for compiling my custom isync/mbsync supporting
+recursive mirroring.  The patch is based on the one which can be found
+here: http://el-tramo.be/blog/gmail-mbsync.
+
+Just run ./build-isync-patched.sh and it will put the .deb file right
+into the directory.
